@@ -1,0 +1,15 @@
+121
+ 
+  
+  
+  1112           3         2111
+
+
+
+echo "# 20feb_HITESH_Python" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HiteshBoricha02/20feb_HITESH_Python.git
+git push -u origin main
